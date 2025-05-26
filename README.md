@@ -1,1 +1,1 @@
-# -_-_-
+A detailed review that explores the possibility of using GPUs for data management acceleration both for SQL and NoSQL databases. The paper explores all the existing research that was done on the topic to show the capabilities of GPUs for managing big data transfers and improving both efficiency and execution time. (The review is in Greek)
